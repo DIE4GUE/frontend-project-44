@@ -12,4 +12,5 @@ brain-calc:
 	node bin/brain-calc.js
 brain-gcd:
 	node bin/brain-gcd.js
-	
+brain-progressin:
+	node bin/brain-progressin.js
