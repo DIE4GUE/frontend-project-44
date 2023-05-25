@@ -40,3 +40,4 @@ $ brain-gcd
 Запуск игры
 $ brain-progression
 Пример игры
+[![asciicast](https://asciinema.org/a/Qx6Yw9lPbkxbuCZWKhwW1mT17.svg)](https://asciinema.org/a/Qx6Yw9lPbkxbuCZWKhwW1mT17)
